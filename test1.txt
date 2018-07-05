@@ -1,1 +1,1 @@
-first command
+Get-service|? $.name -like win*
